@@ -1,2 +1,1 @@
-# react_to_codSbox
-Created with CodeSandbox
+# text to binary and binary to text in javascript 
